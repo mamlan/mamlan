@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Mishkat</h1>
-<h3 align="center">I'm Mishkat and I am a full stack developer attending Stony Brook University. I have a passion for learning new tools and frameworks. I am proficient in Java, Python, C, Javascript, Assembly, and HTML/CSS. Feel free to add me here or connect with me on LinkedIn.</h3>
+<h3 align="center">I am a full stack developer attending Stony Brook University. I have a passion for learning new tools and frameworks. I am proficient in Java, Python, C, Javascript, Assembly, and HTML/CSS. Feel free to add me here or connect with me on LinkedIn.</h3>
 
 - 🔭 I’m currently working on **a project to analyze data from the most recent U.S. presidential election to gain insights into voting patterns, demographics, and key factors that influenced the election outcome.**
 
