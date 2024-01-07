@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Mishkat</h1>
 <h3 align="center">I am a full stack developer attending Stony Brook University. I have a passion for learning new tools and frameworks. I am proficient in Java, Python, C, Javascript, Assembly, and HTML/CSS. Feel free to add me here or connect with me on LinkedIn.</h3>
 
-- 🔭 I’m currently working on **a project to analyze data from the most recent U.S. presidential election to gain insights into voting patterns, demographics, and key factors that influenced the election outcome.**
+- 🔭 I’m currently working on **a project to analyze data from the most recent U.S. presidential election to gain insights into voting patterns, demographics, and key factors that can influencemthe upcoming elections outcome.**
 
 - 🌱 I’m currently learning **I am presently studying Matplotlib and Seaborn as part of my journey to learn the field of data analysis.**
 
